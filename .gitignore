@@ -1,0 +1,17 @@
+# Backend
+backend/vendor/
+backend/.env
+backend/storage/app/public/*
+!backend/storage/app/public/.gitignore
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env*.local
+
+# Misc
+.DS_Store
+*.log
+.idea/
+.vscode/
